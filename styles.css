@@ -1,3 +1,9 @@
 .leftBar {
-  background-color: deeppink;
+  background-color: lightgray;
+  margin-right: 10px;
+}
+
+.threeColumns {
+  column-count: 3;
+  column-gap: normal;
 }
